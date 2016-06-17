@@ -2,10 +2,9 @@
 
 Algorithms implemented in Java.
 
-- Data structures:
+- Data structures
   - Bag, List, Stack, Queue
   - Priority Queue, Indexed Priority Queue
-
 
 - Sorting algorithms
   - Selection Sort, Insertion Sort, Shellsort
